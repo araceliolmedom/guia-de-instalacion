@@ -147,7 +147,7 @@ _Herramientas utilizadas para crear el proyecto_
 
 ## Versionado 📌
 
-Usamos GitHub para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/araceliolmedom/SHELL-SO1.git).
+Usamos GitHub para el versionado.
 
 ## Autores ✒️
 
